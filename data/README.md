@@ -1,0 +1,1 @@
+Data is kept on the local dive in obsidian. Later I will pulish the source
