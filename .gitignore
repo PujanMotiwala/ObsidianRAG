@@ -16,7 +16,7 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Model files
+# Model files: Chroma vector database
 models/vectorstore/chroma/
 
 # macOS
