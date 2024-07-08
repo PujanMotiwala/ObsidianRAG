@@ -1,2 +1,26 @@
-# Ignore environment files
+# Environments
 .env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Model files
+models/vectorstore/chroma/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
